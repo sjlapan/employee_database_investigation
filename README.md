@@ -1,4 +1,4 @@
-# employee_database_investigation
+# Employee Database Investigation
 
 Say that I recently got my dream job as a data engineer at a respectable company (how lucky am I to work at Pewlett Hackard!). I've recently been given six CSV files containing various pieces of information about company employees from the 1980s and 1990s. I need to design tables to hold these CSVs and import them into a SQL database, and then analyze them.
 
